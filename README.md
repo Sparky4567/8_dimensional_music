@@ -1,10 +1,10 @@
-## 8 dimenstional music converter
+## 8 dimensional music converter
 
 A tool written in python 
 
 ### What it does?
 
-It is searching for audios using popular audio formats within the audios folder, converts them to 8d dimensional (multi-pain) audio tracks and writes them all into 8d audio folder automatically.
+It is searching for audios using popular audio formats within the audios folder, converts them to 8 dimensional (multi-pain) audio tracks and writes them all into 8d audio folder automatically using some math and file find functions.
 
 ### Usage
 
