@@ -16,7 +16,7 @@ SUPPORTED_FORMATS = {
 }
 
 ROTATION_SPEED = 0.075      # Revolutions per second
-DEPTH = 0.95               # Stereo width
+DEPTH = 0.99               # Stereo width
 VOLUME_SWING_DB = 4.0       # Distance illusion
 CHUNK_MS = 10               # Processing chunk size
 
