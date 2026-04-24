@@ -13,7 +13,8 @@ Download astro package manager first, put your mp3 files into audios folder.
 Run using:
 
 ```
-uv run main.py 
+uv run main.py - 180 degrees paning effect
+uv run rotation.py - circular 360 degrees paning effect 
 ```
 
 Wait for the proccess to finish.
